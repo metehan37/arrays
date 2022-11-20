@@ -1,2 +1,2 @@
-# data_types projesi
+# arrays projesi
 bu proje [Patika](https://www.patika.dev) c# eğitimi ile yapılmıştır.
